@@ -1,5 +1,5 @@
 # College-TimeTable-Managment
 A Basic TimeTable Managment System
-<hr>
-# To Start This Project
+<hr/>
+# College-TimeTable-Managment
 1) 
