@@ -1,5 +1,8 @@
 # College-TimeTable-Managment
 A Basic TimeTable Managment System
 <hr/>
-# College-TimeTable-Managment
-1) 
+## To Start This Project
+<br>
+1) Open With VS
+2) Write This Command In Package Manager Console => Add-Migration "Init"
+3) Then Write This Command In Paackage Manager Console  => Update-Database
