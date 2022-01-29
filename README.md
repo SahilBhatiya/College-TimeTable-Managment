@@ -4,6 +4,8 @@ A Basic TimeTable Managment System
 <h4>
   Tables
   </h4>
+  
+  <hr/>
 <h5>Slots</h5>
 Id <br>
 TimeStamp <br>
@@ -16,6 +18,7 @@ Teacher <br>
 Batch <br>
 Subject <br>
 
+<hr/>
 <br>
 <h5>Batches</h5>
 Id <br>
@@ -25,6 +28,7 @@ StudentCount <br>
 Description <br>
 Code <br>
 
+<hr/>
 <br>
 <h5>Teachers</h5>
 Id <br>
@@ -35,6 +39,7 @@ Description <br>
 PhoneNumber <br>
 Email <br>
 
+<hr/>
 <br>
 <h5>Subjects</h5>
 Id <br>
