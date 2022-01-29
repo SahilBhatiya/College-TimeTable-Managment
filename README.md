@@ -5,6 +5,8 @@ A Basic TimeTable Managment System
   Tables
   </h3>
   
+  ![Slots](./Slots.png)
+  
   <hr/>
 <h5>Slots</h5>
 Id <br>
