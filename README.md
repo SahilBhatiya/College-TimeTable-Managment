@@ -1,9 +1,9 @@
 # College-TimeTable-Managment
 A Basic TimeTable Managment System
 <hr/>
-<h4>
+<h3>
   Tables
-  </h4>
+  </h3>
   
   <hr/>
 <h5>Slots</h5>
